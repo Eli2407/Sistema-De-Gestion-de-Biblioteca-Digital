@@ -1,0 +1,8 @@
+2,Cien años de Soledad,Eliana,2024-09-18,2024-10-02
+3,Guerra y Paz,Eliana,2024-09-18,2024-10-02
+3,Cien años de Soledad,Eliana,2024-09-18,2024-10-02
+3,Guerra y Paz,Sofia,2024-09-18,2024-10-02
+3,Guerra y Paz,Eliana,2024-09-18,2024-10-02
+3,Guerra y Paz,Eliana,2024-09-18,2024-10-02
+5,Diez Negritos,Petter,2024-09-18,2024-10-02
+5,Cien años de Soledad,Paula,2024-09-18,2024-10-02

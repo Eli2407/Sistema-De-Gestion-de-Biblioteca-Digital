@@ -1,0 +1,4 @@
+1,Cien años de Soledad,Gabriel Garcia,Prestado
+2,Guerra y Paz,Leon Tolstoi,Reservado
+3,Odisea,Homero,Disponible
+4,Diez Negritos,Agatha,DISPONIBLE

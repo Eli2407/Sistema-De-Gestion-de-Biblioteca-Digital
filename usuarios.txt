@@ -1,0 +1,4 @@
+1,Eliana,normal
+2,Sofia,normal
+3,Paula,normal
+4,Petter,normal

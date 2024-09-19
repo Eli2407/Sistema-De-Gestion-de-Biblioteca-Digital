@@ -1,0 +1,15 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://Eli2407@github.com/Eli2407/Sistema-De-Gestion-de-Biblioteca-Digital.git
+	url = https://Eli2407@github.com/Eli2407/Previa.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
